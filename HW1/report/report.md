@@ -18,6 +18,16 @@ Required skills: Python or Java, Selenium, JMeter, Postman, Jenkins, Jira, CI/CD
 
 Salary: Approximately 30M – 80M VND/month, depending on experience and company.
 
+## Job 2
+Position: Manual/Automation Tester - Quality Analyst
+Link: https://www.linkedin.com/jobs/view/4424062835
+
+Job Description: Design, develop, document, train and execute complex software testcases used for regression testing cycle. Functional testing of new features and regression testing of existing features and functionality for each new software release. Testing on window Applications, logging and reporting bugs. Working on Agile process, focusing on manual test. 
+
+Required skills: Proficiency in English, attention to detail, strong desire. Good problem solving, collaboration and communication skills. Testing process and techniques, testing window applications and API with any framework and programming language. 
+
+Salary: Competitive Salary
+
 # Requirement 2 - Software Defects
 
 # Requirement 3 - Physical Device Testing
